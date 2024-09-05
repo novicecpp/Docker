@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# when building the image manually, push it to registry.cern.ch
-IMAGETAG=registry.cern.ch/cmscrab/crabstaticanalysis:test-tseethon
 # gitlab will automatically build this image and keep it in its registry.
 # IMAGETAG=gitlab-registry.cern.ch/cmsdocks/dmwm:crab_staticanalysis
 
